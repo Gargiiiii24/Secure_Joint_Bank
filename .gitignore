@@ -1,0 +1,17 @@
+venv/
+__pycache__/
+*.pyc
+
+.env
+
+private_keys/
+*.pem
+
+frontend/node_modules/
+frontend/dist/
+
+.vscode/
+.idea/
+
+.DS_Store
+Thumbs.db
